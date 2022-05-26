@@ -1,4 +1,4 @@
-# fs2-writeOutputStream
+# fs2-WriterT-memory
 
 This is a repository to reproduce a memory leak using `fs2.Stream` along with an effect type that uses `WriterT`.
 
